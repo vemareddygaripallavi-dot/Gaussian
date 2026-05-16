@@ -50,7 +50,10 @@ for i in range(n):
 
 ## Output:
 
-<img width="710" height="768" alt="image" src="https://github.com/user-attachments/assets/061f786f-3cca-4a90-93df-c54003631693" />
+
+<img width="1364" height="817" alt="image" src="https://github.com/user-attachments/assets/c29cb1d1-502e-413c-9cd3-64509376d00f" />
+
+<img width="1349" height="768" alt="image" src="https://github.com/user-attachments/assets/9953177b-5229-4c80-a3b7-6f0cadb1e53e" />
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
